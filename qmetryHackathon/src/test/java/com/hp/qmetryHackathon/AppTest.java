@@ -42,7 +42,7 @@ public class AppTest {
 	
       //Thread.sleep(7000);
       driver.get("https://www.bing.com");
-      Thread.sleep(3000);	
+      Thread.sleep(5000);	
       
 	}
 	
